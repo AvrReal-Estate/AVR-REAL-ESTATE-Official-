@@ -1,0 +1,1 @@
+export type Property={id:string;title:string;slug:string;type:string;price_lakh:number;area_sqft:number;location:string;floor:string|null;facing:string|null;bedrooms:number|null;bathrooms:number|null;balconies:number|null;parking:string|null;description:string|null;images:string[];featured:boolean;status:string;created_at:string};
